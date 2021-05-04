@@ -1,0 +1,23 @@
+{
+  "name": "io-dna-custom-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hitesh Tare",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "log4js": "^6.3.0",
+    "mongoose": "^5.3.12",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
